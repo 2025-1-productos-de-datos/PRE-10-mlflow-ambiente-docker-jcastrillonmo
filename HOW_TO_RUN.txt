@@ -4,6 +4,7 @@ resultados de las corridas en un solo lugar (disco de red o
 almacenamiento en la nube).
 
 $ docker build -t jdvelasq/mlflow:example .
+#$ docker build -t jcastrillonmo/mlflow:example .
 
 
 
